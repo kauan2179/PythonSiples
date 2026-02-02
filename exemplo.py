@@ -4,3 +4,5 @@ print(idade)
 curso = "Python Desenvolvedor"
 print('Testando')
 print(curso)
+anonsc = 2003
+print(anonsc)
